@@ -8,7 +8,8 @@
 # 7. To remove file from the .git folder, use $ git rm --cached <file_name.extension>
 # 8. To add all project files, use $ git add .
 # 9. Use $ git status to see the status of .git
-# 10. Use $ git commit to commit
+# 10. Use $ git commit to commit -> a vim editor will open, type i to enter insert mode, remove # for comment then exit insert mode using escape and now type in :wq then enter
+
 
 def testFunction():
     print('Hello Git!')
